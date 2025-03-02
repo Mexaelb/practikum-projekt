@@ -1,4 +1,2 @@
 # practikum-projekt
-First commit
-
-
+first-project
